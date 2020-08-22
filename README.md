@@ -28,3 +28,8 @@ Here I have created a infrastructure in **HCL (Hashicorp Configuration Language)
 
 * Launch the webpage on the CHROME using Instance Public_IP.
 ![](images/chrome.png)
+
+### For reference<br/>
+[`Infrastructure.tf`](https://github.com/Sparsh-Agrawal/Terraform-AWS-2/blob/master/infra.tf)
+
+[`LinkedIn`](https://www.linkedin.com/pulse/aws-infrastructure-using-terraform-ii-sparsh-agrawal/?trackingId=SlFNR9nMSiuxdx5QzyoFcQ%3D%3D)
